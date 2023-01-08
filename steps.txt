@@ -1,0 +1,6 @@
+1- e3ml base folder
+2- e3ml folder gowah fih el script bta3k
+3- gowa el folder e3ml __init__.py
+4- fl base folder e3ml setup.py script
+5- run: python setup.py sdist bdist_wheel
+6- run: twine upload dist/*
